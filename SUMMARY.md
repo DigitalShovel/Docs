@@ -1,9 +1,11 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [DigitalShovel](README.md)
 
 ## Projects
 
 * [MinerControl](projects/minercontrol/README.md)
-  * [Untitled](projects/minercontrol/untitled.md)
+  * [Feature](projects/minercontrol/feature.md)
+  * [Authentication](projects/minercontrol/untitled.md)
+  * [API](projects/minercontrol/api.md)
 
