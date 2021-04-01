@@ -1,5 +1,5 @@
 ---
-description: This is a public
+description: Revolutionary Crypto Mining Container Manufacturer
 ---
 
 # DigitalShovel

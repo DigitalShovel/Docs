@@ -10,13 +10,13 @@ For example, a Smart PDU has 46 ports, one customer uses 43 ports for `Miner`, 4
 
 1. Go to Dashboard, change ID 1-4 ports `Type` to `Exhaust`.
 2. Change ID 5 ports `Type` to `Heater`.
-3. In this case, users **are not able** to control Port 1-5.
+3. In this case, users **are not able** to control Port 1-5. ![](../../.gitbook/assets/image.png) 
 4. Go to `Sensor & Device` -&gt; `DashBoard`
 5. Setup device and drag to reset priority.
 
 ![Change Type](../../.gitbook/assets/image%20%281%29.png)
 
-![Setup Device](../../.gitbook/assets/image%20%286%29.png)
+![Setup Device](../../.gitbook/assets/image.png)
 
 ## 2. Build-in API Docs
 
