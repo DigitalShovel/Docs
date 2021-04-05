@@ -1,5 +1,5 @@
 ---
-description: This project is control software designed for DigitalShovel Smart PDU.
+description: This project is control software for DigitalShovel Smart PDU.
 ---
 
 # MinerControl
@@ -7,6 +7,8 @@ description: This project is control software designed for DigitalShovel Smart P
 ## Link
 
 Demo Page: [http://demo.shovel.digital/](http://demo.shovel.digital)
+
+Note: Demo example page is usually the **experimental**\(or newest\) version.
 
 ## Key Feature
 
@@ -16,11 +18,11 @@ Demo Page: [http://demo.shovel.digital/](http://demo.shovel.digital)
 
 ## Extra Feature
 
-* [Use Miner as Utilities](feature.md#1-use-miner-as-utilities)
-* [Build-in API Docs](feature.md#2-build-in-api-docs)
+* [Use Miner as Utilities](feature/#1-use-miner-as-utilities)
+* [Build-in API Docs](feature/#2-build-in-api-docs)
 * Build-in Wifi Hotspot
 
-##  
+
 
 
 
