@@ -12,5 +12,5 @@ This documentation is for DigtalShovel product Users & Developers. Find the righ
 
 {% page-ref page="projects/minercontrol/" %}
 
-## 
+
 
